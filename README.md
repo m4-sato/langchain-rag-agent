@@ -35,7 +35,11 @@
 ## RAGの精度向上Tips
 - インデクシング
 - 検索クエリ
-- 検索語
+  - HyDE(Hypothetical Document Embeddings)
+- 検索後
+  - RAG-Fusion
+  - 
+
 - 複数のRetrieverを使う
 - 生成後
 
@@ -43,6 +47,8 @@
 - [In-context Learning](https://arxiv.org/abs/2301.00234)
 - [RAG for LLM Survey](https://arxiv.org/abs/2312.10997)
 - [RAG Chatbots](https://arxiv.org/abs/2407.07858)
+- [HyDE関係](https://arxiv.org/abs/2212.10496)
 
 ## 参照情報
 - [RAG-AIAgent本リポジトリ](https://github.com/GenerativeAgents/agent-book)
+- [Azure AI Foundry with Langchain](https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/langchain)
